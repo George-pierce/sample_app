@@ -1,0 +1,1 @@
+This is a sample app created using the ROR tutorial Learn Rails by example
