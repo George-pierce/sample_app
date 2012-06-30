@@ -7,7 +7,7 @@ gem 'rails', '3.2.6'
 group :Development, :test do
 
 gem 'sqlite3', '1.3.5'
-gem 'rspec-rails', '2.10.0'
+gem 'rspec-rails', '2.8.1'
 end
 
 # Gems used only for assets and not required
